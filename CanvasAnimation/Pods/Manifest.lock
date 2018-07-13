@@ -1,0 +1,16 @@
+PODS:
+  - Canvas (0.1.2)
+
+DEPENDENCIES:
+  - Canvas
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Canvas
+
+SPEC CHECKSUMS:
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+
+PODFILE CHECKSUM: a36c6bf7cd260d4f192fe2cfeb060203722b48ab
+
+COCOAPODS: 1.5.3

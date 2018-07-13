@@ -1,0 +1,6 @@
+framework module Pods_CanvasAnimation {
+  umbrella header "Pods-CanvasAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
